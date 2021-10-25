@@ -1,4 +1,4 @@
-# Expose Docker API
+# Expose the Docker API 
 ## Step 1: Edit /lib/systemd/system/docker.service file
 ![](images/1.jpg)
 
