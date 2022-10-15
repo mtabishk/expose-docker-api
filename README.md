@@ -3,7 +3,7 @@
 ![](images/1.jpg)
 
 ## Step 2: Update ExecStart= ... -H=tcp://0.0.0.0:2378
-![](images/3.jpg)
+![](images/2.jpg)
 
 ## Step 3: Reload the daemon and restart the docker service
-![](images/1.jpg)
+![](images/3.jpg)
