@@ -1,0 +1,11 @@
+Exponer la API de Docker (sin cifrar)
+Paso 1: edite el archivo /lib/systemd/system/docker.service
+
+
+Paso 2: Actualice ExecStart= ... -H=tcp://0.0.0.0:2378
+
+
+Paso 3: Vuelva a cargar el demonio y reinicie el servicio docker
+
+
+Lanzamientos
