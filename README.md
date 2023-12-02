@@ -1,5 +1,7 @@
 # Expose the Docker API (un-encrypted)
-[![Watch the video](https://img.youtube.com/vi/ipECJ18UPwg/maxresdefault.jpg)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/ipECJ18UPwg))
+[![Docker Mobile](https://img.youtube.com/vi/ipECJ18UPwg/0.jpg)](https://www.youtube.com/watch?v=ipECJ18UPwg)
+
+
 ## Step 1: Edit /lib/systemd/system/docker.service file
 ![](images/1.jpg)
 
