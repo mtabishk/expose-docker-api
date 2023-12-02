@@ -1,4 +1,5 @@
 # Expose the Docker API (un-encrypted)
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/ipECJ18UPwg))
 ## Step 1: Edit /lib/systemd/system/docker.service file
 ![](images/1.jpg)
 
